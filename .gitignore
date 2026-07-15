@@ -1,0 +1,14 @@
+Debug/
+Release/
+.metadata/
+.recommenders/
+*.bak
+*.tmp
+*.log
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.map
+*.list
